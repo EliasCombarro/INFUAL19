@@ -1,0 +1,9 @@
+name: INFUAL19 
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - numpy
+  - pip:
+      - projectq
+  - jupyter
