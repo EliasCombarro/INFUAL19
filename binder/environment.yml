@@ -6,4 +6,6 @@ dependencies:
   - numpy
   - pip:
       - projectq
+      - dimod
+      - dwave-ocean-sdk
   - jupyter
