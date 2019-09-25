@@ -10,3 +10,4 @@ dependencies:
       - dimod
       - dwave-ocean-sdk
   - jupyter
+  - matplotlib
