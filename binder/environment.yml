@@ -11,3 +11,4 @@ dependencies:
       - dwave-ocean-sdk
   - jupyter
   - matplotlib
+  - sympy
